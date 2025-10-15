@@ -1,0 +1,9 @@
+﻿  FileName.cpp
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(234,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(330,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(341,6): warning C4101: value: неиспользованная локальная переменная
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(346,6): warning C4101: a: неиспользованная локальная переменная
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(345,6): warning C4101: start_pos: неиспользованная локальная переменная
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(410,16): warning C4101: y: неиспользованная локальная переменная
+C:\Users\user\source\repos\Project2\Project2\FileName.cpp(410,13): warning C4101: x: неиспользованная локальная переменная
+  Project2.vcxproj -> C:\Users\user\source\repos\Project2\x64\Debug\Project2.exe
